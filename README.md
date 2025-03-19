@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yousef Alaa</h1>
 <h3 align="center">AI Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yousef" alt="yousef" /></a> </p>
-
 - 🔭 I’m currently working on **HandMatch**
 
 - 🌱 I’m currently learning **on AI projects**
