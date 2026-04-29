@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yousef Alaa</h1>
+<h1 Yousef Alaa</h1>
 <h3 align="center">AI Developer</h3>
 
 - 🔭 I’m currently working on **HandMatch**
