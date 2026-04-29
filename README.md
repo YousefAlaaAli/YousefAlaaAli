@@ -1,4 +1,4 @@
-# 🏄‍♂️ Yousef Alaa
+# Yousef Alaa
 
 **`AI Engineer`**
 
